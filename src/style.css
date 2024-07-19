@@ -104,7 +104,7 @@ button{
    animation: animate 1s ease-in-out forwards;
 }
 button:hover{
-   background-color: black;
+   background-color: grey;
    color: white;
 }
 .content h1{
